@@ -12,6 +12,14 @@ NOT: The API was free when I first created this repository, but now they have **
 
 
 # Usage
+You have to visit https://exchangeratesapi.io/  and get API key.
+![image](https://user-images.githubusercontent.com/71520530/174766436-7cac6801-29b3-4648-994e-30a722b7aef3.png)
+
+
+Before the start script you have to edit and add  your API key to api_key variable.
+>**api_key="YOUR_API_KEY_HERE"**
+
+
 Function has two variable
 
 1) base 
