@@ -3,6 +3,12 @@
 My firs push to git.I Love open source too much and I can't imagine world with out open source. :)
 Just helping to community for better ideas.
 
+# Requirements
+>pip install requests
+
+>pip install json
+
+
 # Usage
 Function has two variable
 
